@@ -1,0 +1,47 @@
+-J-Duser.language=
+-J-Duser.country=
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+17
+-sourcepath
+'D:/Repositorio Maven/.m2/MavenTestProject/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2025. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'D:/Repositorio Maven/.m2/MavenTestProject/target/reports/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'MavenTestProject 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'MavenTestProject 1.0-SNAPSHOT API'
+umu.tds.apps
+D:\Repositorio Maven\.m2\MavenTestProject\src\main\java = 1751459572090
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\allclasses-index.html = 1751461951420
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\allpackages-index.html = 1751461951424
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\copy.svg = 1751461951551
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\element-list = 1751461951350
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\help-doc.html = 1751461951538
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\index-all.html = 1751461951524
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\index.html = 1751461951530
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\jquery-ui.overrides.css = 1751461951581
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\member-search-index.js = 1751461951507
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\module-search-index.js = 1751461951504
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\overview-tree.html = 1751461951405
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\package-search-index.js = 1751461951505
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\script.js = 1751461951549
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\search-page.js = 1751461951560
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\search.html = 1751461951527
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\search.js = 1751461951556
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\stylesheet.css = 1751461951547
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\tag-search-index.js = 1751461951509
+D:\Repositorio Maven\.m2\MavenTestProject\target\reports\apidocs\type-search-index.js = 1751461951506
